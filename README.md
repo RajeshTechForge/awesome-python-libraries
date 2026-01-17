@@ -10,24 +10,13 @@
 
 Welcome to the most comprehensive collection of Python database tutorials on GitHub! Whether you're building web apps, data pipelines, or high-performance systems, this repository has everything you need to master database programming in Python.
 
-**🎯 Two Complete Tutorials. MongoDB with PyMongo and PostgreSQL with Psycopg3.**
+**🎯 Two Complete Tutorials. [MongoDB with PyMongo](./PYMONGO.md) and [PostgreSQL with Psycopg3](./PSYCOPG3.md).**
 
 ---
 
 ## 📚 What's Inside?
 
 This repository contains **production-ready, beginner-friendly** tutorials for the two most popular database drivers in the Python ecosystem:
-
-### 🍃 [MongoDB with PyMongo](./PYMONGO.md)
-**The Ultimate NoSQL Experience**
-
-Master MongoDB, the world's most popular NoSQL database, using PyMongo - the official Python driver.
-
-
-### 🐘 [PostgreSQL with Psycopg3](./PSYCOPG3.md)
-**The Ultimate SQL Experience**
-
-Master PostgreSQL, the world's most advanced open-source relational database, using Psycopg3 - the modern Python adapter.
 
 
 ## 🌟 Why These Tutorials Rock
