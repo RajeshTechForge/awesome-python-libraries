@@ -1,23 +1,22 @@
 <div align="center">
 
-# Awesome Database Drivers for Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Python for Production [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🚀 **Complete Guide to Python Database Programming 2026** - From Zero to Production Hero!
+🚀 **Complete Guide to Python frameworks 2026** - From Zero to Production Hero!
 
 <br>
 <br>
 </div>
 
-Welcome to the most comprehensive collection of Python database tutorials on GitHub! Whether you're building web apps, data pipelines, or high-performance systems, this repository has everything you need to master database programming in Python.
+Welcome to the most comprehensive collection of Python framework tutorials on GitHub! Whether you're starting to learn a framework or want to master for production level, it has everything you need in 2026.
 
-**🎯 Two Complete Tutorials. [MongoDB with PyMongo](./PYMONGO.md) and [PostgreSQL with Psycopg3](./PSYCOPG3.md).**
+## 🔥 Featured Tutorials
+- 🥭 [FastAPI for Production](./FASTAPI.md) - Build high-performance APIs with FastAPI
+- 🍃 [MongoDB with PyMongo for Production](./PYMONGO.md) - Learn to use MongoDB effectively with PyMongo
+- 🐘 [PostgreSQL with Psycopg3 for Production](./PSYCOPG3.md) - Master PostgreSQL using Psycopg3
+
 
 ---
-
-## 📚 What's Inside?
-
-This repository contains **production-ready, beginner-friendly** tutorials for the two most popular database drivers in the Python ecosystem:
-
 
 ## 🌟 Why These Tutorials Rock
 
@@ -38,130 +37,12 @@ This repository contains **production-ready, beginner-friendly** tutorials for t
 - **2026 Edition** with latest features
 - **Python 3.10+** with type hints
 - **Async support** for high-performance apps
-- **Latest versions:** PyMongo 4.15.5+ & Psycopg 3.3.2+
 
 ### 💯 Comprehensive Coverage
 - **150+ code examples** across both tutorials
 - **3,900+ lines** of detailed documentation
 - **Every concept explained** with working code
 - **Production patterns** for real applications
-
-
-## 🎓 Choose Your Path
-
-### 🤔 Which Tutorial Should I Start With?
-
-**Start with MongoDB (PyMongo) if:**
-- ✅ You're building a new application with flexible data requirements
-- ✅ You want to move fast and iterate quickly
-- ✅ Your data is document-oriented (JSON-like)
-- ✅ You need horizontal scaling from day one
-- ✅ You're building APIs, mobile backends, or content management systems
-
-**Start with PostgreSQL (Psycopg3) if:**
-- ✅ You need strong data consistency and ACID transactions
-- ✅ You're working with relational data and complex joins
-- ✅ You need advanced SQL features (CTEs, window functions, etc.)
-- ✅ You're building financial, healthcare, or enterprise systems
-- ✅ Data integrity is your top priority
-
-**Pro Tip:** 💡 Why not learn both? Many modern applications use **both** databases for different purposes!
-
-
-## 📖 Tutorial Structure
-
-Both tutorials follow the same proven learning path:
-
-```
-📚 Introduction
-   ├─ What & Why
-   ├─ Key Features
-   └─ When to Use
-
-🚀 Getting Started
-   ├─ Installation
-   ├─ Setup
-   └─ First Connection
-
-🔧 Core Concepts
-   ├─ Connections
-   ├─ Basic Operations
-   └─ Data Types
-
-📝 CRUD Operations
-   ├─ Create (Insert)
-   ├─ Read (Query)
-   ├─ Update (Modify)
-   └─ Delete (Remove)
-
-🔍 Advanced Querying
-   ├─ Filters & Operators
-   ├─ Projections
-   ├─ Sorting & Limiting
-   └─ Complex Queries
-
-⚡ Performance
-   ├─ Indexing
-   ├─ Optimization
-   ├─ Bulk Operations
-   └─ Best Practices
-
-🏭 Production Patterns
-   ├─ Connection Pooling
-   ├─ Error Handling
-   ├─ Security
-   └─ Real-World Examples
-
-📚 Additional Resources
-   └─ Further Learning
-```
-
-
-## 📊 Feature Comparison
-
-| Feature | MongoDB (PyMongo) | PostgreSQL (Psycopg3) |
-|---------|-------------------|------------------------|
-| **Data Model** | Document (JSON/BSON) | Relational (Tables) |
-| **Schema** | Flexible, Dynamic | Structured, Defined |
-| **Query Language** | MongoDB Query Language | SQL |
-| **Transactions** | Multi-document (4.0+) | Full ACID support |
-| **Scaling** | Horizontal (Sharding) | Vertical (+ Replication) |
-| **Async Support** | Via Motor | Native in Psycopg3 |
-| **Best For** | Flexible schemas, rapid dev | Complex queries, data integrity |
-| **Learning Curve** | Gentle | Moderate |
-| **JSON Support** | Native | JSONB (excellent) |
-| **Full-Text Search** | Built-in | Built-in (advanced) |
-| **Geospatial** | Excellent | PostGIS (industry-leading) |
-
-**The Verdict:** Both are **excellent** choices! Pick based on your use case. 🎯
-
----
-
-## 🎨 Tutorial Features
-
-### 📝 Every Tutorial Includes:
-
-- ✅ **100+ Working Examples** - Copy, paste, learn!
-- ✅ **Best Practices** - Industry-proven patterns
-- ✅ **Security Tips** - Prevent common vulnerabilities
-- ✅ **Performance Optimization** - Make it fast!
-- ✅ **Error Handling** - Build resilient applications
-- ✅ **Production Patterns** - Real-world deployments
-- ✅ **Pro Tips** - Insider knowledge throughout
-- ✅ **Quick Reference** - Cheat sheets at the end
-
-### 🎯 Learning Outcomes
-
-By the end of each tutorial, you'll be able to:
-
-**Technical Skills:**
-- ✅ Set up and configure databases
-- ✅ Perform all CRUD operations confidently
-- ✅ Write complex queries and aggregations
-- ✅ Optimize for performance
-- ✅ Handle errors gracefully
-- ✅ Index for performance
-- ✅ Deploy to production
 
 
 ## 🚀 Getting Started
@@ -203,96 +84,22 @@ By the end of each tutorial, you'll be able to:
 - [Performance](./PSYCOPG3.md#-performance)
 - [Production Patterns](./PSYCOPG3.md#-production-patterns)
 
+### FastAPI Tutorial
 
-## 🎯 Learning Paths
-
-### 🌱 Beginner Path (2-3 weeks)
-
-**Week 1: Choose Your Database**
-- Day 1-2: Read both introductions, understand the differences
-- Day 3-4: Install and set up your chosen database
-- Day 5-7: Complete the "Core Concepts" section
-
-**Week 2: Master CRUD**
-- Day 1-3: Work through all CRUD examples
-- Day 4-5: Build a simple project (blog, todo app, etc.)
-- Day 6-7: Experiment with queries and filters
-
-**Week 3: Go Deeper**
-- Day 1-3: Advanced querying techniques
-- Day 4-5: Indexing and performance basics
-- Day 6-7: Build a more complex project
-
-### 🚀 Intermediate Path (3-4 weeks)
-
-**Continue from Beginner, then:**
-
-**Week 4: Advanced Features**
-- PyMongo: Aggregation pipeline
-- Psycopg3: Async operations & row factories
-
-**Week 5: Performance**
-- Indexing strategies
-- Query optimization
-- Bulk operations
-
-**Week 6: Production**
-- Connection pooling
-- Error handling
-- Security best practices
-
-**Week 7: Real Project**
-- Build a complete application
-- Deploy to production
-- Monitor and optimize
-
-### 💼 Professional Path (Ongoing)
-
-- Master both databases
-- Learn when to use each
-- Understand distributed systems
-- Explore advanced features (sharding, replication, etc.)
-- Contribute to open source
-- Share your knowledge!
-
-
-## 🎓 Projects to Build
-
-### Beginner Projects
-
-**MongoDB:**
-- 📝 Simple blog with posts and comments
-- 📚 Book collection manager
-- 🎬 Movie rating system
-- 📱 User profile storage
-
-**PostgreSQL:**
-- 💰 Personal finance tracker
-- 📋 Task management system
-- 📊 Simple analytics dashboard
-- 🛒 Shopping cart system
-
-### Intermediate Projects
-
-**MongoDB:**
-- 📊 Real-time analytics dashboard
-- 🗺️ Location-based service (geospatial)
-- 📰 Content aggregator with full-text search
-- 🎮 Game leaderboard system
-
-**PostgreSQL:**
-- 🏦 Banking system (transactions)
-- 📈 Data warehouse with complex queries
-- 🎫 Event booking system
-- 🏥 Healthcare records (with audit trail)
-
-### Advanced Projects
-
-**Use Both:**
-- 🏪 E-commerce platform (PostgreSQL for orders, MongoDB for catalog)
-- 📱 Social media app (PostgreSQL for users, MongoDB for posts/feeds)
-- 📊 Analytics platform (PostgreSQL for aggregates, MongoDB for raw events)
-- 🎮 Gaming platform (PostgreSQL for accounts, MongoDB for game state)
+- [Introduction to FastAPI](./FASTAPI.md#-introduction)
+- [Getting Started](./FASTAPI.md#-getting-started)
+- [Core Concepts](./FASTAPI.md#-core-concepts)
+- [Request Handling](./FASTAPI.md#-request-handling)
+- [Response Models](./FASTAPI.md#-response-models)
+- [Dependency Injection](./FASTAPI.md#-dependency-injection)
+- [Database Integration](./FASTAPI.md#-database-integration)
+- [Authentication & Security](./FASTAPI.md#-authentication--security)
+- [File Operations](./FASTAPI.md#-file-operations)
+- [Background Tasks](./FASTAPI.md#-background-tasks)
+- [WebSockets](./FASTAPI.md#-websockets)
+- [Testing](./FASTAPI.md#-testing)
+- [Production Deployment](./FASTAPI.md#-production-deployment)
+- [Advanced Topics](./FASTAPI.md#-advanced-topics)
 
 
 ## 🤝 Contributing
@@ -325,19 +132,19 @@ Found a typo? Have a suggestion? Want to add more examples?
 - ✅ Handle complex transactions safely
 - ✅ Deploy high-performance SQL apps
 
-### Combined Power:
-- ✅ Know when to use NoSQL vs SQL
-- ✅ Build polyglot persistence systems
-- ✅ Choose the right tool for each job
-- ✅ Become a well-rounded developer
-- ✅ Boost your career prospects! 🚀
+### From FastAPI Tutorial:
+- ✅ Build high-performance APIs with async/await
+- ✅ Master Pydantic for data validation & serialization
+- ✅ Leverage dependency injection for clean code
+- ✅ Implement secure OAuth2 and JWT authentication
+- ✅ Deploy production-ready apps with Docker
 
 
 ## 🎯 Final Words
 
 **Learning databases is a journey, not a destination.**
 
-These tutorials are designed to be your companion on that journey - from your first connection to deploying production systems.
+These tutorials are designed to be your companion on that journey - from your first code to deploying production systems.
 
 Don't try to learn everything at once. Pick a tutorial, start with the basics, build something, make mistakes, learn, and gradually level up.
 
@@ -347,20 +154,6 @@ Don't try to learn everything at once. Pick a tutorial, start with the basics, b
 - 🤔 **Ask questions** - There are no stupid questions
 - 🔄 **Practice regularly** - Consistency beats intensity
 - 🎉 **Celebrate progress** - You're learning something amazing!
-
-
-## 🚀 Ready to Begin?
-
-**Choose your adventure:**
-
-### 🍃 [Start with MongoDB & PyMongo →](./PYMONGO.md)
-Perfect for flexible, document-oriented applications
-
-### 🐘 [Start with PostgreSQL & Psycopg3 →](./PSYCOPG3.md)
-Perfect for structured, relational applications
-
-### 💪 [Why not both?](./PYMONGO.md)
-Become a database polyglot!
 
 ---
 

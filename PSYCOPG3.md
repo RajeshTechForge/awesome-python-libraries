@@ -2,7 +2,7 @@
 
 # Awesome Psycopg3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 🐘 **The Ultimate Guide to PostgreSQL with Python (2026 Edition)** - Modern, Fast, Async-Ready!
+🐘 **The Ultimate Guide to PostgreSQL with Python (2026 Edition)** - Modern, Fast, Async-Ready!
 
 <br>
 <br>
