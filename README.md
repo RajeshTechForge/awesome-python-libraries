@@ -18,6 +18,7 @@ Welcome to the most comprehensive collection of Python libraries tutorials on Gi
 - 🐘 [PostgreSQL with Psycopg3 for Production](./PSYCOPG3.md) - Master PostgreSQL using Psycopg3
 
 ### Aims for Zero-to-ML Ready
+- 🔢 [NumPy for ML/DL](./NUMPY.md) - Master numerical computing with NumPy for ML/DL
 - 🐼 [Pandas for ML/DL](./PANDAS.md) - Master data manipulationwith Pandas for ML/DL
 - 📊 [Matplotlib for ML/DL](./MATPLOTLIB.md) - Master data visualization with Matplotlib
 
