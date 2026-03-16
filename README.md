@@ -78,6 +78,6 @@ Don't try to learn everything at once. Pick a tutorial, start with the basics, b
 
 <div align="center">
 
-**Made with ❤️ for Python developers by @RajeshTechForge**
+**Made with ❤️ for Python Community by @RajeshTechForge**
 
 </div>
